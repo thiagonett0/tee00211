@@ -1,0 +1,1 @@
+Atividade desenvolvida durante a disciplina TEE00211: Laboratório de Sistemas de Energia Elétrica. Consiste em codificar do "zero" um programa que realize análise de faltas, similar ao ANAFAS do pacote CEPEL.
